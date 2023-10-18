@@ -1,0 +1,20 @@
+git clone: Como su nombre lo indica clona o duplica un repositorio. 
+
+git pull: Sirve para extraer y descargar contenido desde un repositorio remoto y actualizar
+el repositorio local para ver ese contenido.
+
+git checkout: Le permite a uno cambiar entre ramas del proyecto.
+
+git log: Es el comando para mostrar el commit que uno crea.
+
+git branch: Es el comando que muestra las ramas que tiene el proyecto.
+
+git add: Es el comando que se utiliza para agregar un cambio del directorio al entorno de ensayo. 
+         Incluye actualizaciones de un archivo en concreto a la proxima confirmación o commit.
+
+git commit: Es el comando que se utiliza para guardar cualquier cambio. En el se crea una versión del proyecto
+            en el repositorio local.
+
+git push: Es un comando para llevar nuestros cambios a un repositorio remoto.
+
+git merge: Es el comando que mezcla las ramas del proyecto.
